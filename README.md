@@ -206,8 +206,6 @@ If you fork, insert your own API key from OpenWeatherMap.
 ***HTML5 | CSS3 |JavaScript | OpenWeatherMap API | Responsive Design Weather App | Frontend Project | Glassmorphism Live |
 Demo API Integration***
 
-
-
 ## 📬 Contact Me
 
 If you have any questions, suggestions, or collaboration ideas — feel free to reach out.
