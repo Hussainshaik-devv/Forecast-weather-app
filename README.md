@@ -1,14 +1,11 @@
-# 🌦️ Weather Forecast App
+
+# WEATHER FORECAST APPLICATION
 
 <!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD033 -->
 
-<p align="center">
   <img src="https://raw.githubusercontent.com/hussainshaik-devv/Forecast-weather-app/main/Assets/banner.gif" height= "100%" width="100%" alt="Banner" />
-</p>
-</p>
 
-<h1 align="center">🌦️ Weather Forecast App</h1>
+---
 
 <p align="center"><em>Your Weather Updates Partner on the Go</em></p>
 
@@ -36,8 +33,8 @@
   <a href="mailto:Hussainshaikdev03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Mail me-D14836?style=flat square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat sqaure" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/hussainshaik-devv">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat square" alt="LinkedIn">
   </a>
 </p>
 
@@ -61,31 +58,14 @@ It is designed with usability and aesthetic UI in mind, incorporating features l
 
 ## 📸 Screenshots
 
-<div align=center>
+![Weather App Screenshot](assets/overview.png)
+**▲ Screenshot 1: Main UI with Search Functionality**
 
-  <a href="assets/overview.png" target="_blank">
-    <img src="assets/overview.png" alt="Weather App Screenshot" width="75%" />
-  </a>
-  <br />
-  <sub><strong>▲ Screenshot 1: Main UI with Search Functionality</strong></sub>
+![City Weather Details](assets/autodropdown.png)
+**▲ Screenshot 2: Auto-dropdown fetching city name**
 
-  <br><br>
-
-  <a href="assets/autodropdown.png" target="_blank">
-    <img src="assets/autodropdown.png" alt="City Weather Details" width="75%" />
-  </a>
-  <br />
-  <sub><strong>▲ Screenshot 2: Auto-dropdown fetching city name</strong></sub>
-
-  <br><br>
-
-  <a href="assets/weatherresult.png" target="_blank">
-    <img src="assets/weatherresult.png" alt="Responsive View" width="75%" />
-  </a>
-  <br />
-  <sub><strong>▲ Screenshot 3: Responsive Weather Results</strong></sub>
-
-</div>
+![Responsive View](assets/weatherresult.png)
+**▲ Screenshot 3: Responsive Weather Results**
 <!-- markdownlint-enable MD033 -->
 
 ---
