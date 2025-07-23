@@ -1,4 +1,8 @@
+# 🌦️ Weather Forecast App
+
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 -->
+
 <p align="center">
   <img src="assets/banner.gif" alt="Weather Forecast App Banner" width="100%" />
 </p>
