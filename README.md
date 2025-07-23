@@ -4,7 +4,8 @@
 <!-- markdownlint-disable MD033 -->
 
 <p align="center">
-  <img src="assets/banner.gif" alt="Weather Forecast App Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/hussainshaik-devv/Forecast-weather-app/main/Assets/banner.gif" width="100%" alt="Banner" />
+</p>
 </p>
 
 <h1 align="center">🌦️ Weather Forecast App</h1>
