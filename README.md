@@ -4,7 +4,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hussainshaik-devv/Forecast-weather-app/main/Assets/banner.gif" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/hussainshaik-devv/Forecast-weather-app/main/Assets/banner.gif" height= "100%" width="100%" alt="Banner" />
 </p>
 </p>
 
