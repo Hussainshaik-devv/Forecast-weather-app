@@ -2,7 +2,8 @@
 
 <!-- markdownlint-disable MD033 -->
 
-  ![Weather App Banner](https://raw.githubusercontent.com/hussainshaik-devv/Forecast-weather-app/main/Assets/)
+  ![Weather App Banner](https://raw.githubusercontent.com/hussainshaik-devv/Forecast-weather-app/main/Assets/appbanner.gif
+  )
 
 ---
 
@@ -32,7 +33,7 @@
   <a href="mailto:Hussainshaikdev03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/hussainshaik-devv">
+  <a href="https://www.linkedin.com/in/shaik-mohammed-hussain-8878b9236?trk=contact-info">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -197,9 +198,10 @@ Demo API Integration***
 
 If you have any questions, suggestions, or collaboration ideas — feel free to reach out.
 
-- 📱  Mobile : +918686481451
-- 📧 Email : [Hussainshaikdev03@gmail.com](mailto:Hussainshaikdev03@gmail.com)
-- 🧑‍💻 GitHub : [@hussainshaik-devv](https://github.com/hussainshaik-devv)
+**📱 Mobile:** [+91 8686481451](tel:+918686481451)  
+**📧 Email:** [Hussainshaikdev03@gmail.com](mailto:Hussainshaikdev03@gmail.com)  
+**🧑‍💻 GitHub:** [github.com/hussainshaik-devv](https://github.com/hussainshaik-devv)  
+**👔 LinkedIn:** [linkedin.com/in/hussainshaik-devv](https://www.linkedin.com/in/shaik-mohammed-hussain-8878b9236?trk=contact-info)
 
 ---
 
