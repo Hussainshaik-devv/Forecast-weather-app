@@ -1,13 +1,12 @@
-
-# WEATHER FORECAST APPLICATION
+# Weather Forecast Application
 
 <!-- markdownlint-disable MD033 -->
 
-  <img src="https://raw.githubusercontent.com/hussainshaik-devv/Forecast-weather-app/main/Assets/banner.gif" height= "100%" width="100%" alt="Banner" />
+  ![Weather App Banner](https://raw.githubusercontent.com/hussainshaik-devv/Forecast-weather-app/main/Assets/)
 
 ---
 
-<p align="center"><em>Your Weather Updates Partner on the Go</em></p>
+<p align="center"><em>Your Weather Updates Partner on the Go  </em></p>
 
 <p align="center">
   <a href="https://github.com/Hussainshaik-devv/Forecast-weather-app">
@@ -28,13 +27,13 @@
 
 <p align="center">
   <a href="https://github.com/hussainshaik-devv">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat square" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:Hussainshaikdev03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail me-D14836?style=flat square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/hussainshaik-devv">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat square" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -58,13 +57,13 @@ It is designed with usability and aesthetic UI in mind, incorporating features l
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](assets/overview.png)
+![Weather App Screenshot](Assets/overview.png)
 **▲ Screenshot 1: Main UI with Search Functionality**
 
-![City Weather Details](assets/autodropdown.png)
+![City Weather Details](Assets/autodropdown.png)
 **▲ Screenshot 2: Auto-dropdown fetching city name**
 
-![Responsive View](assets/weatherresult.png)
+![Responsive View](Assets/weatherresult.png)
 **▲ Screenshot 3: Responsive Weather Results**
 <!-- markdownlint-enable MD033 -->
 
@@ -118,15 +117,18 @@ The layout adapts seamlessly across devices:
 
 ## 📂 Folder Structure
 
+```bash
 Weather-Forecast-App/
 ├── index.html
 ├── style.css
 ├── script.js
-├── Assets/
+├── assets/
 │   ├── overview.png
 │   ├── autodropdown.png
-│   └── weatherresult.png
+│   ├── weatherresult.png
+│   └── banner.gif
 └── README.md
+```
 
 ---
 
@@ -174,7 +176,7 @@ If you fork, insert your own API key from OpenWeatherMap.
 
 ---
 
-## 🧑‍🎓 Project Information
+## 🎓 Project Information
 
 - Project Type: Frontend Weather Application.
 
@@ -203,4 +205,4 @@ If you have any questions, suggestions, or collaboration ideas — feel free to 
 
 ## 🧑‍💻 Developed by ⚡
 
-### Shaik Mohammed Hussain | Full Stack Web Developer | Bengaluru | Karnataka | India
+### Shaik Mohammed Hussain | Web Developer | Bengaluru | Karnataka | India
