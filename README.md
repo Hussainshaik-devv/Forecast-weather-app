@@ -21,9 +21,10 @@
   </a>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hussainshaik-devv/Forecast-weather-app?style=for-the-badge&color=orange">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hussainshaik-devv/Forecast-weather-app?style=for-the-badge&color=yellow">
-  <a href="https://github.com/hussainshaik-devv/Forecast-weather-app/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/hussainshaik-devv/Forecast-weather-app?style=for-the-badge" alt="GitHub license badge" />
-  </a>
+ <a href="https://github.com/hussainshaik-devv/Forecast-weather-app/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/hussainshaik-devv/Forecast-weather-app?style=for-the-badge&label=License" alt="License Badge" />
+</a>
+
 </p>
 
 <p align="center">
